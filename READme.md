@@ -22,20 +22,17 @@ The BookStore is a full-stack web application built using the MERN stack (MongoD
   - Node.js
   - Express.js
   - MongoDB (with Mongoose ODM)
+ 
+## Demo : 👉  https://github.com/Darshanjasani73/BookStore-Frontend 
 
 ## Production Ready
 
-This repository is production-ready. The `dist` folder within the `backend` directory contains the production build of the frontend code. You can deploy this application to a free hosting service like Heroku, Vercel, or any other platform that supports Node.js applications.
+# Frontend repository : https://github.com/Darshanjasani73/BookStore-Frontend 
+# Deploy on Vercel : https://book-store-front-end-nine.vercel.app/
 
-To deploy the application:
-1. Ensure that your environment variables are correctly set up.
-2. Deploy the contents of the `backend` directory, including the `dist` folder, to your hosting service.
+# Backend repository : https://github.com/Darshanjasani73/BookStore-Backend
+# Deploy on Render : https://bookstore-backend-qjzq.onrender.com/
 
-## Separate Repositories for Frontend and Backend
-
-If you want to get the frontend and backend code in separate repositories, you can find the respective repositories here:
-
-https://github.com/Darshanjasani73/BookStore-Front-Back-end
 
 ## Contributing
 
