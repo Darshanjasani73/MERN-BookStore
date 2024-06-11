@@ -1,0 +1,41 @@
+{
+    "builds": [
+      {
+        "src": "index.js",
+        "use": "@vercel/node"
+      },
+      {
+        "src": "dist/**",
+        "use": "@vercel/static"
+      }
+    ],
+  
+    "routes":[
+        {
+            "src":"/books/create",
+            "dest":"index.js"
+        },
+        {
+            "src":"/books/details/(.*)",
+            "dest":"index.js"
+        },
+        {
+            "src":"/books/edit/(.*)",
+            "dest":"index.js"
+        },
+        {
+            "src":"/books/delete/(.*)",
+            "dest":"index.js"
+        },
+        {
+            "src":"/",
+            "dest":"dist/index.html"
+        },
+        {
+            "src":"/(.+)",
+            "dest":"dist/$1"
+        }
+
+    ]
+  }
+  
