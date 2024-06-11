@@ -23,7 +23,8 @@ The BookStore is a full-stack web application built using the MERN stack (MongoD
   - Express.js
   - MongoDB (with Mongoose ODM)
  
-## Demo : 👉  https://github.com/Darshanjasani73/BookStore-Frontend 
+## Live : 👉  https://book-store-front-end-nine.vercel.app/
+
 
 ## Production Ready
 
