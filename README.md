@@ -29,7 +29,7 @@ The BookStore is a full-stack web application built using the MERN stack (MongoD
 ## Production Ready
 
 ### Frontend repository : https://github.com/Darshanjasani73/BookStore-Frontend 
-### Deploy on Vercel : https://book-store-front-end-nine.vercel.app/
+### Deploy on Vercel : https://book-store-mern-webapp.vercel.app/
 
 ### Backend repository : https://github.com/Darshanjasani73/BookStore-Backend
 ### Deploy on Render : https://bookstore-backend-qjzq.onrender.com/
