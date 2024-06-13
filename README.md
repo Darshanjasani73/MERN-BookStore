@@ -37,13 +37,13 @@ The BookStore is a full-stack web application built using the MERN stack (MongoD
 
 ## UI of Website
 
+![Screenshot 2024-06-13 172215](https://github.com/Darshanjasani73/MERN-BookStore/assets/167104440/c1a3a2c1-ee9b-49c2-8b2b-82b5e6cab70b)
+
 ![Screenshot 2024-06-13 172414](https://github.com/Darshanjasani73/MERN-BookStore/assets/167104440/86a41057-d2d2-4011-b196-496c16f50262)
 
 ![Screenshot 2024-06-13 172518](https://github.com/Darshanjasani73/MERN-BookStore/assets/167104440/00ad5ee3-427e-4e97-80a5-2858c79204f0)
 
 ![Screenshot 2024-06-13 172447](https://github.com/Darshanjasani73/MERN-BookStore/assets/167104440/79eabff6-96aa-4ba4-b59a-7446adec6700)
-
-![Screenshot 2024-06-13 172215](https://github.com/Darshanjasani73/MERN-BookStore/assets/167104440/c1a3a2c1-ee9b-49c2-8b2b-82b5e6cab70b)
 
 
 ## Contributing
